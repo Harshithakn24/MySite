@@ -28,9 +28,9 @@ body{
 .middle-container{
     margin-top: -200;
 }
-h1{   
+.h1{  
+text-align:center;
  margin-top: 20%;
- margin-bottom: 0;
  color:#0F1035;
  font-size: 350%;
  font-family: 'Rubik Burned', system-ui;
@@ -71,7 +71,7 @@ font-size: 200%;
 }
 .contact-me{
     margin-top: 120;
-    margin-right:300;
+    margin-left:500;
 }
 .cloud1,.cloud2{
     position: absolute;
