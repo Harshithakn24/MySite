@@ -28,13 +28,12 @@ body{
 .middle-container{
     margin-top: -200;
 }
-.h1{  
-text-align:center;
- margin-top: 20%;
- color:#0F1035;
- font-size: 350%;
- font-family: 'Rubik Burned', system-ui;
-
+.h1{
+    text-align:center;
+    margin-top:20px;
+    color:#0F1035;
+    font-size: 350;
+    font-family: 'Rubik burned',system-ui;
 }
 .h2{ 
     text-align:center;
@@ -71,7 +70,7 @@ font-size: 200%;
 }
 .contact-me{
     margin-top: 120;
-    margin-left:500;
+    margin-left:700;
 }
 .cloud1,.cloud2{
     position: absolute;
