@@ -9,15 +9,15 @@ body{
     position: relative;
     height: 80px;
     width: 120px;
-    margin-right: 60px;
-    margin-top: 0px;
+    margin-right: 100px;
+    margin-top: 50px;
   }
 
 .cloud2{
     height: 80px;
     width: 120px;
-    margin-left: 900px;
-    margin-top: 0px;
+    margin-left: 1000px;
+    margin-top: 50px;
     margin-bottom: auto;
 }
 .mount{
@@ -49,7 +49,7 @@ font-size: 200%;
 }
 .skills{
     margin-top: 150;
-    margin-left: 850;
+    margin-left: 950;
 }
 .skill2{
     margin-top: 100;
@@ -75,7 +75,7 @@ contact-me{
 }
 .cloud1,.cloud2{
     position: absolute;
-    top: 50px; /* Adjust the top value as needed */
+    top: 100px; /* Adjust the top value as needed */
     animation: floatClouds linear infinite 5s;
 }
 @keyframes floatClouds {
